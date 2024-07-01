@@ -72,8 +72,6 @@
     "editorGroupHeader.tabsBackground": "#060101",
     "editorGroupHeader.tabsBorder": "#fff",
     "lineNumberSidebarBackground": "#fff"
-
-    //
   },
   "workbench.editor.showTabs": "single"
 
